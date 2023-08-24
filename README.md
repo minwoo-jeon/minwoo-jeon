@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 개발꿈나무 전민우입니다.👋
 
 <!--
 **minwoo-jeon/minwoo-jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
