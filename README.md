@@ -1,4 +1,4 @@
-### 안녕하세요 자바 개발자 전민우입니다.👋
+### 주니어 백엔드 개발자 전민.👋
 
 <!--
 **minwoo-jeon/minwoo-jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
