@@ -12,7 +12,7 @@
 
 <div align="center">
  
-  STACK 🚀
+  {STACK} 🚀
   <br>
   <br>
   [<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,14 +21,9 @@
  
  <br>
  <br> 
-  :mailbox_with_mail: Contacts
+  {Contacts} :mailbox_with_mail: 
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:minwoo867412@naver.com)](mailto:minwoo867412@naver.com)
-출처: https://soo-vely-dev.tistory.com/159 
- 
   <br>
   <br>
  
-
-  <br>
-  <br>
 </div>
