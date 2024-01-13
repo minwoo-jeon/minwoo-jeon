@@ -12,7 +12,7 @@
 
 <div align="center">
  
-  ## STACK 🚀
+  STACK 🚀
   <br>
   <br>
   [<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
