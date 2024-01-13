@@ -5,7 +5,7 @@
 <div align="center">
   안녕하세요 
   <br>
-  주니어 백엔드 개발자 전민우 입니다.
+  주니어 백엔드 개발자 전민우 입니다. :computer:
   <br>
 </div>
 
