@@ -1,4 +1,8 @@
+## 전민우
+#### Backend Developer
 
+
+**1996.09.09**  
 
 ## 🚀Skills
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
